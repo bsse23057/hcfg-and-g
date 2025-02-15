@@ -3,3 +3,6 @@ hello i am bug fix branch
 hello i am bug fix1 branch
 hello i am bug fix2 branch
 hello i am bug fix3 branch
+
+i am leaning stag
+i am eating rice
