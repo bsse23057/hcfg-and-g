@@ -5,4 +5,8 @@ hello i am bug fix2 branch
 hello i am bug fix3 branch
 
 i am leaning stag
-i am eating rice
+i am eating rice 1
+i am eating rice 2
+i am eating rice 3
+i am eating rice 4
+i am eating rice 5
