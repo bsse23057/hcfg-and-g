@@ -1,2 +1,5 @@
 two is saying hello   
 hello i am bug fix branch
+hello i am bug fix1 branch
+hello i am bug fix2 branch
+hello i am bug fix3 branch
